@@ -1,0 +1,36 @@
+{
+  "name": "using-gulp-to-build-a-front-end-website",
+  "version": "1.0.0",
+  "description": "Using Gulp to Build a Front End Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-bcn/Using-Gulp-to-Build-a-Front-End-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-bcn/Using-Gulp-to-Build-a-Front-End-Website/issues"
+  },
+  "homepage": "https://github.com/ben-bcn/Using-Gulp-to-Build-a-Front-End-Website#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-images-resizer": "0.0.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace-image-src": "^1.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "^2.1.0",
+    "run-sequence": "^2.2.1"
+  }
+}
